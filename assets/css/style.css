@@ -96,7 +96,7 @@ textarea {
 
 /* specs for the banners over the pics on portfolio page  */
 .banner {  
-    position: relative;
+    /* position: relative; */
     font-size: 20px;
     background-color: #4aaaa5;
     color: #ffffff;
@@ -107,7 +107,7 @@ textarea {
 
 
 /* the following are all the banner positions over the pics on portfolio page */
-.ab {
+/* .ab {
     bottom: 440px;  
     left: 251px;  
 }
@@ -130,4 +130,4 @@ textarea {
 .ij {
     bottom: 393px;
     left: 832px;
-}
+} */
